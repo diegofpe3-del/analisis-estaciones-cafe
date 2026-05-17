@@ -37,7 +37,7 @@ Aquí puedes ver una vista general del reporte interactivo diseñado en Power BI
 Si deseas profundizar en la metodología estadística y el paso a paso técnico, puedes revisar los archivos directamente en este repositorio:
 
 * [📄 Ver Documentación Completa en PDF (12 páginas)](./Documentacion_Proyecto.pdf)
-* [💻 Ver Scripts de SQL Server](./sql/./metricas.sql/)
+* [💻 Ver Scripts de SQL Server](./sql-server/.metricas.sql)
 * [📊 Descargar Archivo de Power BI](./dashboard/)
 
 ---
