@@ -36,7 +36,7 @@ Aquí puedes ver una vista general del reporte interactivo diseñado en Power BI
 ## 📂 Documentación y Código Técnico
 Si deseas profundizar en la metodología estadística y el paso a paso técnico, puedes revisar los archivos directamente en este repositorio:
 
-* [📄 Ver Documentación Completa en PDF (12 páginas)](ANALISIS%20INTEGRAL%20Y%20OPTIMIZACION%20-%20ESTACIONES%20AUTOMATIZADAS%20DE%20CAFE.pdf)
+* [📄 Ver Documentación Completa en PDF (14 páginas)](ANALISIS%20INTEGRAL%20Y%20OPTIMIZACION%20-%20ESTACIONES%20AUTOMATIZADAS%20DE%20CAFE.pdf)
 * [💻 Ver Scripts de SQL Server](./sql-server/metricas.sql)
 * [📊 Descargar Archivo de Power BI](./dashboard/)
 
