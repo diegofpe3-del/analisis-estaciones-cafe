@@ -38,7 +38,7 @@ Si deseas profundizar en la metodología estadística y el paso a paso técnico,
 
 * [📄 Ver Documentación Completa en PDF (12 páginas)](./Documentacion_Proyecto.pdf)
 * [💻 Ver Scripts de SQL Server](./sql-server/metricas.sql)
-* [📊 Descargar Archivo de Power BI](./dashboard/DASHBOARD COFFEE SALES.pbix)
+* [📊 Descargar Archivo de Power BI](./dashboard/)
 
 ---
 ## 👤 Contacto
