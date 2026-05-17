@@ -42,6 +42,6 @@ Si deseas profundizar en la metodología estadística y el paso a paso técnico,
 
 ---
 ## 👤 Contacto
-* **LinkedIn:** [Tu Nombre y Apellido](Enlace_a_tu_LinkedIn)
-* **Correo:** tu_correo@email.com
+* **LinkedIn:** [Diego Flores Parra](https://www.linkedin.com/in/dflores26/)
+* **Correo:** diegofpe3@gmail.com
 * **Ubicación:** Lima, Perú 🇵🇪
